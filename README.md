@@ -38,7 +38,7 @@ Using Machine Learning to predict rating of an unreleased movie, ultimately, it'
 
 ![Alt Text][math]
 
-[neural]:https://media.giphy.com/media/NsBknNwmmWE8WU1q2U/giphy.gif
+[neural]:https://media.giphy.com/media/NsBknNwmmWE8WU1q2U/giphy-downsized.gif
 [movie]:https://media.giphy.com/media/VxbP9tLeKzazm/giphy.gif
 [questions]:https://media.giphy.com/media/TgF6xfH8V0mZcUyneP/giphy.gif
 [ter]:https://i.gifer.com/fxvV.gif
